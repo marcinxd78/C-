@@ -1,0 +1,11 @@
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\bin\Debug\AplikacajaBaz.exe.config
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.Form1.resources
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.Properties.Resources.resources
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.csproj.GenerateResource.Cache
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\bin\Debug\AplikacajaBaz.exe
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\bin\Debug\AplikacajaBaz.pdb
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\bin\Debug\MySql.Data.dll
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\bin\Debug\MySql.Data.xml
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.exe
+c:\users\marcin\documents\visual studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.pdb
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\AplikacajaBaz\AplikacajaBaz\obj\Debug\AplikacajaBaz.csprojResolveAssemblyReference.cache
